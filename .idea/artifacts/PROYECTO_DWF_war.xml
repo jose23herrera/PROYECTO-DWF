@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PROYECTO-DWF:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>PROYECTO-DWF</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="PROYECTO-DWF-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="PROYECTO-DWF:war exploded" />
+    </root>
+  </artifact>
+</component>
